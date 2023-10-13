@@ -1,0 +1,17 @@
+# Human Resources
+
+1. [GeniusReview](https://geniusreview.xyz/?ref=futurepedia)
+2. [SwagAI](https://www.useslingshot.com/swagai/?ref=futurepedia)
+3. [Upcat](https://upcat.app/?ref=futurepedia)
+4. [Ferret](https://www.ferret.ai/?ref=futurepedia)
+5. [Write Me A Cover Letter](https://writemeacoverletter.com/?ref=futurepedia)
+6. [Moveworks](https://www.moveworks.com/?ref=futurepedia)
+7. [Dost](https://getdost.com/?ref=futurepedia)
+8. [Autumn AI](https://www.getautumn.com/?ref=futurepedia)
+9. [Qatalog](https://qatalog.com/?ref=futurepedia)
+10. [Proposal Genie](https://www.proposalgenie.ai/?ref=futurepedia)
+11. [AI Careers](https://aicareers.io/?ref=futurepedia)
+12. [Kore.ai](https://kore.ai/?ref=futurepedia)
+13. [JobtitlesAI](https://jobtitlesai.com/?ref=futurepedia)
+14. [Resume Worded](https://resumeworded.com/index.php?ref=futurepedia)
+15. [HireYaY](https://hireyay.com/?ref=futurepedia)

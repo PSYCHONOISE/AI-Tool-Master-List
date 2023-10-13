@@ -1,0 +1,18 @@
+# Music
+
+1. [Riffusion](https://www.riffusion.com/?ref=futurepedia)
+2. [Boomy](https://boomy.com/?ref=futurepedia)
+3. [Pollinations](https://pollinations.ai/?ref=futurepedia)
+4. [Harmonai](https://www.harmonai.org/?ref=futurepedia)
+5. [Endel](https://endel.io/?ref=futurepedia)
+6. [Natural Language Playlist](https://www.naturallanguageplaylist.com/?ref=futurepedia)
+7. [Beatoven.ai](https://www.beatoven.ai/?ref=futurepedia)
+8. [Emergent Drums](https://audialab.com/?ref=futurepedia)
+9. [Open Voice OS](https://openvoiceos.com/?ref=futurepedia)
+10. [Pop2Piano](https://sweetcocoa.github.io/pop2piano_samples?ref=futurepedia)
+11. [Soundful](https://soundful.com/?ref=futurepedia)
+12. [Amper](https://score.ampermusic.com/?ref=futurepedia)
+13. [Sonify](https://www.sonify.io/?ref=futurepedia)
+14. [Daft Art](https://daftart.ai/?ref=futurepedia)
+15. [Quasi](https://quasi.market/?ref=futurepedia)
+16. [Songtell](https://songtell.com/?ref=futurepedia)

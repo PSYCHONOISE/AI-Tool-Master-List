@@ -1,0 +1,15 @@
+# Prompts
+
+1. [Public Prompts](https://publicprompts.art/?ref=futurepedia)
+2. [PromptBase](https://promptbase.com/?ref=futurepedia)
+3. [Promptist](https://huggingface.co/spaces/microsoft/Promptist?ref=futurepedia)
+4. [PromtBox](https://www.promptbox.ai/?via=futurepedia)
+5. [PromptLayer](https://promptlayer.com/?ref=futurepedia)
+6. [Eye for Al](https://eyeforai.xyz/?ref=futurepedia)
+7. [Pyttipanna](https://pyttipanna.xyz/?ref=futurepedia)
+8. [Jrnylist](https://www.jrnylist.com/?ref=futurepedia)
+9. [Openart](https://openart.ai/?ref=futurepedia)
+10. [PromptHero](https://prompthero.com/?ref=futurepedia)
+11. [Img2prompt](https://replicate.com/methexis-inc/img2prompt?ref=futurepedia)
+12. [Krea](https://www.krea.ai/?ref=futurepedia)
+13. [Dallelist](https://www.dallelist.com/?ref=futurepedia)
